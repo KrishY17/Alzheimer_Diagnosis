@@ -2,7 +2,7 @@
 
 # An efficient Alzheimer’s Disease Diagnosis with tuned Transfer Learning models
 
-![Alzheimer Detection](https://i.imgur.com/Y91RCPj.png)
+<div align-items="center">![Alzheimer Detection](https://i.imgur.com/Y91RCPj.png)</div>
 
 This work presents a reliable mechanism for early illness identification in the context of the worldwide healthcare difficulties brought on
 by Alzheimer’s disease. This work applies deep learning techniques using a large dataset of high-quality brain MRI images that includes people with Alzheimer’s disease and cognitively normal patients divided into 4 classes:
@@ -68,6 +68,6 @@ The confusion matrix below helps us understand the results better:
 
 - [Manan Mangal](https://github.com/mangal-manan)
 - [Ashish Gugale](https://github.com/AshishGugale)
-- [Krish Yadav](https://github.com/AshishGugale)
+- [Krish Yadav](https://github.com/KrishY17)
 - [Gaurang Paliwal](https://github.com/AshishGugale)
 ---
