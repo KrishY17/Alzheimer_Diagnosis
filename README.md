@@ -56,14 +56,44 @@ The architecture of the EfficientNetV2B3 is diagrammatically represented below:
 
 ### EfficientNetV2B3
 
-The model was trained over the training log of 21 epochs. The initial training accuracy stood at 53.9% and steadily increased to a robust 96.72% by the end of training.
-These results underscore the model’s excellent performance, characterized by high accuracy and minimal loss on both training and validation datasets, highlighting its capability to generalize and make precise predictions. The loss and accuracy curves are represented graphically below:
+The model was trained over the training log of 21 epochs. The initial training accuracy stood at 53.9% and steadily increased to a robust 96.72% by the end of training. These results underscore the model’s excellent performance, characterized by high accuracy and minimal loss on both training and validation datasets, highlighting its capability to generalize and make precise predictions. The loss and accuracy curves are represented graphically below:
 
-<div align="center"><img src="images/EfficientNet-Graphs.png" ></div>
+<div align="center"><img src="images/EfficientNet-Graphs.png"  width=500 height=350></div>
 
 The confusion matrix below helps us understand the results better:
 
-<div align="center"><img src="images/EfficientNet-CM.png" ></div>
+<div align="center"><img src="images/EfficientNet-CM.png" width=350 height=350 ></div>
+
+### InceptionV3
+
+In the training process of the InceptionV3 model, a comprehensive evaluation over 31 epochs revealed notable progress. The model began with a training accuracy of approximately 53%, indicating that it had initially grasped some of the underlying patterns in the training. However, as the model continued to train it resulted in a validation accuracy of 92.9%. This consistentupward trend in validation accuracy underscores the model’s robustness and its capability to make accurate predictions on new, unseen data.
+
+<div align="center"><img src="images/Inception-Graphs.png"  width=500 height=350></div>
+
+The confusion matrix below helps us understand the results better:
+
+<div align="center"><img src="images/Inception-CM.png" width=350 height=350 ></div>
+
+### MobileNetV2
+
+At the outset, the model’s training accuracy stood at approximately 50.6%, indicating that it had started to grasp some patterns within the training data. However, as training continued, the model exhibited
+a consistent upward trend in training accuracy, eventually reaching a levelof 63.6%.
+
+<div align="center"><img src="images/MobileNet-Graphs.png"  width=500 height=350></div>
+
+The confusion matrix below helps us understand the results better:
+
+<div align="center"><img src="images/MobileNet-CM.png" width=350 height=350 ></div>
+
+### NasNetMobile
+
+During the training process of the NASNetMobile model, we tracked its performance over ten epochs. At the outset, the model exhibited a training accuracy of approximately 55.2%,as the training continued, the model displayed a consistent upward trend in training accuracy, culminating in an impressive 87.6% by the tenth epoch.
+
+<div align="center"><img src="images/MobileNet-Graphs.png"  width=500 height=350></div>
+
+The confusion matrix below helps us understand the results better:
+
+<div align="center"><img src="images/MobileNet-CM.png" width=350 height=350 ></div>
 
 ## Contributors
 
