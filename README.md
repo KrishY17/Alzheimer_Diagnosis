@@ -4,8 +4,8 @@
 
 <div align="center"><img src="https://i.imgur.com/Y91RCPj.png" width=350 height=350></div>
 
-This work presents a reliable mechanism for early illness identification in the context of the worldwide healthcare difficulties brought on
-by Alzheimer’s disease. This work applies deep learning techniques using a large dataset of high-quality brain MRI images that includes people with Alzheimer’s disease and cognitively normal patients divided into 4 classes:
+This work presents a reliable mechanism for early illness identification in the context of the worldwide healthcare difficulties brought on by Alzheimer’s disease. This work applies deep learning techniques using a large dataset of high-quality brain MRI images that includes people with Alzheimer’s disease and cognitively normal patients divided into 4 classes:
+
 - Moderate Demented
 - Mild Demented
 - Very Mild Demented
@@ -79,7 +79,7 @@ The confusion matrix below helps us understand the results better:
 At the outset, the model’s training accuracy stood at approximately 50.6%, indicating that it had started to grasp some patterns within the training data. However, as training continued, the model exhibited
 a consistent upward trend in training accuracy, eventually reaching a levelof 63.6%.
 
-<div align="center"><img src="images/MobileNet-Graphs.png"  width=500 height=350></div>
+<div align="center"><img src="images/MobileNet-Graphs.png"  width=600 height=350></div>
 
 The confusion matrix below helps us understand the results better:
 
@@ -89,7 +89,7 @@ The confusion matrix below helps us understand the results better:
 
 During the training process of the NASNetMobile model, we tracked its performance over ten epochs. At the outset, the model exhibited a training accuracy of approximately 55.2%,as the training continued, the model displayed a consistent upward trend in training accuracy, culminating in an impressive 87.6% by the tenth epoch.
 
-<div align="center"><img src="images/NasNet-Graphs.png"  width=500 height=350></div>
+<div align="center"><img src="images/NasNet-Graphs.png"  width=600 height=350></div>
 
 The confusion matrix below helps us understand the results better:
 
