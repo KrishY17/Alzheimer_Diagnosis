@@ -35,11 +35,11 @@ These are MRI images which are then further segregated into 4 classes. These 4 c
 images. The distribution of the dataset amongst these 4 classes is shown below:
 
 
-<div align="center"><img src="https://i.imgur.com/SwlX1I4.png" width=500 height=400></div>
+<div align="center"><img src="https://i.imgur.com/SwlX1I4.png" width=500 height=350></div>
 
 The subsequent figure displays a set of sample images from the dataset processed by setting color maps as ”jet”. The ”jet” colormap is a rainbow-like colormap that maps numerical values to colors, transitioning through a range of colors from blue to red, with intermediate colors like green, yellow, and orange. It is often used to represent continuous data or gradients, where different colors represent different values or levels of a variable.
 
-![Jets](https://i.imgur.com/LJaEUL2.png)
+<div align="center"><img src="i.imgur.com/LJaEUL2.png" width=700 height=500></div>
 
 ## Model Architecture 
 
