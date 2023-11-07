@@ -34,7 +34,8 @@ The dataset used in this research work is titled as Alzheimer’s Dataset (S. Du
 These are MRI images which are then further segregated into 4 classes. These 4 classes are Mild Demented, Moderate Demented, Non Demented and Very Mild Demented. Moderate Demented has 64 images, Mild Demented has 896 images, Very Mild Demented has 2240 images and Non Demented has 3200
 images. The distribution of the dataset amongst these 4 classes is shown below:
 
-![Dataset distribution](https://i.imgur.com/SwlX1I4.png)
+
+<div align="center"><img src="https://i.imgur.com/SwlX1I4.png" width=500 height=400></div>
 
 The subsequent figure displays a set of sample images from the dataset processed by setting color maps as ”jet”. The ”jet” colormap is a rainbow-like colormap that maps numerical values to colors, transitioning through a range of colors from blue to red, with intermediate colors like green, yellow, and orange. It is often used to represent continuous data or gradients, where different colors represent different values or levels of a variable.
 
