@@ -27,7 +27,7 @@ related to this condition.
 
 Alzheimer's disease is a devastating and incurable neurodegenerative disorder that primarily affects the elderly, although early-onset cases can occur as well. It is the most common cause of dementia, responsible for significant cognitive and functional decline, and has a profound impact on individuals and their families. 
 
-<div align="center"><svg src="images/doctor.svg" width=350 height=350></div>
+<div align="center"><img src="images/doctor.svg" width=350 height=350></div>
 
 ### Disease Prevalence
 
