@@ -1,6 +1,6 @@
 # Alzheimer_Ml_Project
 
-# An efficient Alzheimer’s Disease Diagnosis with tuned Transfer Learning models
+# An efficient Alzheimer’s Disease Diagnosis with fine-tuned Transfer Learning models
 
 <div align="center"><img src="https://i.imgur.com/Y91RCPj.png" width=400 height=400></div>
 
