@@ -2,7 +2,7 @@
 
 # An efficient Alzheimer’s Disease Diagnosis with fine-tuned Transfer Learning models
 
-<div align="center"><img src="https://i.imgur.com/Y91RCPj.png" width=400 height=400></div>
+<div align="center"><img src="https://i.imgur.com/Y91RCPj.png" width=300 height=300></div>
 
 This work presents a reliable mechanism for early illness identification in the context of the worldwide healthcare difficulties brought on
 by Alzheimer’s disease. This work applies deep learning techniques using a large dataset of high-quality brain MRI images that includes people with Alzheimer’s disease and cognitively normal patients divided into 4 classes:
