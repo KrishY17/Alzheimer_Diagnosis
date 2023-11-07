@@ -2,17 +2,10 @@
 
 # An efficient Alzheimer’s Disease Diagnosis with fine-tuned Transfer Learning models
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1;">
-    <div align="center"><img src="https://i.imgur.com/Y91RCPj.png" width=350 height=350></div>
-  </div>
-  <div style="flex: 1;">
-    <svg width="350" height="350" xmlns="http://www.w3.org/2000/svg">
-      <!-- Your SVG code goes here --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g data-name="Doctor Man"><path d="M26.75 30a.755.755 0 0 1-.75.75v-1.5a.755.755 0 0 1 .75.75zM38 29.25v1.5a.75.75 0 0 1 0-1.5z" style="fill:#eac2b9"/><path d="M45 8v9.27a2 2 0 0 0-1-.27h-3v-4s-2 0-5.4-3c0 0-3.6 4-12.6 4v3h-3a2 2 0 0 0-1 .27V8a4 4 0 0 1 4-4 3 3 0 0 1 3-3h12a7 7 0 0 1 7 7z" style="fill:#494a59"/><path d="M46 18v3a2.006 2.006 0 0 1-2 2h-4.22a9.356 9.356 0 0 0 .22-2v-5h4a2.006 2.006 0 0 1 2 2zM24.22 23H20a2.006 2.006 0 0 1-2-2v-3a2.006 2.006 0 0 1 2-2h4v5a9.356 9.356 0 0 0 .22 2zM38 26.7V34l-4 5h-4l-4-5v-7.3a8.976 8.976 0 0 0 12 0z" style="fill:#eac2b9"/><path d="M53.283 39.877 38 33l-4 5h-4l-4-5-15.283 6.877A8 8 0 0 0 6 47.173V62.25a.75.75 0 0 0 .75.75h50.5a.75.75 0 0 0 .75-.75V47.173a8 8 0 0 0-4.717-7.296z" style="fill:#ffb64d"/><path d="M44 35.7v.08a17.958 17.958 0 0 1-4.84 12.28 9.857 9.857 0 0 1-14.32 0A17.958 17.958 0 0 1 20 35.78v-.08l6-2.7 4 5h4l4-5z" style="fill:#e6ecff"/><path d="M26 29.25v1.5h-3A7.255 7.255 0 0 0 15.75 38v6.6l2.67 1.78a.75.75 0 0 1 .33.62v2a.75.75 0 0 1-1.5 0v-1.6L15 45.9l-2.25 1.5V49a.75.75 0 0 1-1.5 0v-2a.75.75 0 0 1 .33-.62l2.67-1.78V38A8.76 8.76 0 0 1 23 29.25zM49.75 38v6a.75.75 0 0 1-1.5 0v-6A7.255 7.255 0 0 0 41 30.75h-3v-1.5h3A8.76 8.76 0 0 1 49.75 38z" style="fill:#4294ff"/><path style="fill:#d0dbf7" d="m30 38-5 5-5-7.3 6-2.7 4 5z"/><path style="fill:#343544" d="M37.64 41.64 35 46h-6l-2.64-4.36L30 38h4l3.64 3.64z"/><path style="fill:#d0dbf7" d="M44 35.7 39 43l-5-5 4-5 6 2.7z"/><path d="M36.32 50.16a9.989 9.989 0 0 1-8.64 0L29 46h6z" style="fill:#494a59"/><path d="M49.75 52v11h-1.5V52a.75.75 0 0 1 1.5 0zM15.75 52v11h-1.5V52a.75.75 0 0 1 1.5 0z" style="fill:#ea972a"/><path d="M23 13v8a9 9 0 0 0 9 9 9 9 0 0 0 9-9v-9s-2 0-5.4-3c0 0-3.6 4-12.6 4z" style="fill:#ffddd4"/><circle cx="49" cy="46" r="2.75" style="fill:#376cfb"/></g></svg>
-      <rect width="350" height="350" fill="#FF5733"/>
-    </svg>
-  </div>
-</div>
+
+  <div align="center"><img src="https://i.imgur.com/Y91RCPj.png" width=350 height=350></div>
+
+
 
 
 This work presents a reliable mechanism for early illness identification in the context of the worldwide healthcare difficulties brought on by Alzheimer’s disease. This work applies deep learning techniques using a large dataset of high-quality brain MRI images that includes people with Alzheimer’s disease and cognitively normal patients divided into 4 classes:
