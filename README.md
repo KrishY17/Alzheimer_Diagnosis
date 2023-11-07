@@ -7,8 +7,11 @@
 This work presents a reliable mechanism for early illness identification in the context of the worldwide healthcare difficulties brought on by Alzheimer’s disease. This work applies deep learning techniques using a large dataset of high-quality brain MRI images that includes people with Alzheimer’s disease and cognitively normal patients divided into 4 classes:
 
 - Moderate Demented
+  
 - Mild Demented
+  
 - Very Mild Demented
+  
 - Non Demented
 
 To create an automated diagnostic system, this work specifically use four transfer learning architectures—EfficientNetV2B3, InceptionNetV3, NASNetMobile and MobileNetV2 as base models. EfficientNetV2B3 which underwent thorough training and evaluation and was directed by important measures like loss and accuracy, ultimately showing a diagnostic accuracy of 96.72 %.
@@ -58,21 +61,21 @@ The architecture of the EfficientNetV2B3 is diagrammatically represented below:
 
 The model was trained over the training log of 21 epochs. The initial training accuracy stood at 53.9% and steadily increased to a robust 96.72% by the end of training. These results underscore the model’s excellent performance, characterized by high accuracy and minimal loss on both training and validation datasets, highlighting its capability to generalize and make precise predictions. The loss and accuracy curves are represented graphically below:
 
-<div align="center"><img src="images/EfficientNet-Graphs.png"  width=500 height=350></div>
+<div align="center"><img src="images/EfficientNet-Graphs.png"  width=600 height=350 alt="results"></div>
 
 The confusion matrix below helps us understand the results better:
 
-<div align="center"><img src="images/EfficientNet-CM.png" width=350 height=350 ></div>
+<div align="center"><img src="images/EfficientNet-CM.png" width=450 height=350 ></div>
 
 ### InceptionV3
 
 In the training process of the InceptionV3 model, a comprehensive evaluation over 31 epochs revealed notable progress. The model began with a training accuracy of approximately 53%, indicating that it had initially grasped some of the underlying patterns in the training. However, as the model continued to train it resulted in a validation accuracy of 92.9%. This consistentupward trend in validation accuracy underscores the model’s robustness and its capability to make accurate predictions on new, unseen data.
 
-<div align="center"><img src="images/Inception-Graphs.png"  width=500 height=350></div>
+<div align="center"><img src="images/Inception-Graphs.png"  width=600 height=350></div>
 
 The confusion matrix below helps us understand the results better:
 
-<div align="center"><img src="images/Inception-CM.png" width=350 height=350 ></div>
+<div align="center"><img src="images/Inception-CM.png" width=450 height=350 ></div>
 
 ### MobileNetV2
 
@@ -100,5 +103,5 @@ The confusion matrix below helps us understand the results better:
 - [Manan Mangal](https://github.com/mangal-manan)
 - [Ashish Gugale](https://github.com/AshishGugale)
 - [Krish Yadav](https://github.com/KrishY17)
-- [Gaurang Paliwal](https://github.com/AshishGugale)
+- [Gaurang Paliwal](https://github.com/gaurang53)
 ---
