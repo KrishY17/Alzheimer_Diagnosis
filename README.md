@@ -46,7 +46,7 @@ The subsequent figure displays a set of sample images from the dataset processed
 We have used the tranfer learning models with adjustments made to the average pooling layer, flattening the fully connected layer, and applying the softmax function to an additional fully connected layer. Subsequently, hyperparameters were fine-tuned to optimize performance.
 The architecture of the EfficientNetV2B3 is diagrammatically represented below:
 
-![Model Architecture](https://i.imgur.com/wzwo300.png)
+<div align="center"><img src="images/Efficient-Net-Architecture.png" ></div>
 
 ## Training and Evaluation
 
@@ -59,11 +59,11 @@ The architecture of the EfficientNetV2B3 is diagrammatically represented below:
 The model was trained over the training log of 21 epochs. The initial training accuracy stood at 53.9% and steadily increased to a robust 96.72% by the end of training.
 These results underscore the model’s excellent performance, characterized by high accuracy and minimal loss on both training and validation datasets, highlighting its capability to generalize and make precise predictions. The loss and accuracy curves are represented graphically below:
 
-![Loss v/s Accuracy](https://i.imgur.com/BnjxM8D.png)
+<div align="center"><img src="images/EfficientNet-Graphs.png" ></div>
 
 The confusion matrix below helps us understand the results better:
 
-![Confusion Matrix](https://i.imgur.com/GMiLIFk.png)
+<div align="center"><img src="images/EfficientNet-CM.png" ></div>
 
 ## Contributors
 
