@@ -2,7 +2,7 @@
 
 # An efficient Alzheimer’s Disease Diagnosis with tuned Transfer Learning models
 
-<div align-items="center">![Alzheimer Detection](https://i.imgur.com/Y91RCPj.png)</div>
+<div align-items="center" src="https://i.imgur.com/Y91RCPj.png">![Alzheimer Detection]</div>
 
 This work presents a reliable mechanism for early illness identification in the context of the worldwide healthcare difficulties brought on
 by Alzheimer’s disease. This work applies deep learning techniques using a large dataset of high-quality brain MRI images that includes people with Alzheimer’s disease and cognitively normal patients divided into 4 classes:
