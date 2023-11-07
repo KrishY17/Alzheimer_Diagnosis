@@ -83,7 +83,7 @@ a consistent upward trend in training accuracy, eventually reaching a levelof 63
 
 The confusion matrix below helps us understand the results better:
 
-<div align="center"><img src="images/MobileNet-CM.png" width=350 height=350 ></div>
+<div align="center"><img src="images/MobileNet-CM.png" width=450 height=350 ></div>
 
 ### NasNetMobile
 
@@ -93,7 +93,7 @@ During the training process of the NASNetMobile model, we tracked its performan
 
 The confusion matrix below helps us understand the results better:
 
-<div align="center"><img src="images/NasNet-CM.png" width=350 height=350 ></div>
+<div align="center"><img src="images/NasNet-CM.png" width=450 height=350 ></div>
 
 ## Contributors
 
