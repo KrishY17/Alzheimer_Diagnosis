@@ -89,11 +89,11 @@ The confusion matrix below helps us understand the results better:
 
 During the training process of the NASNetMobile model, we tracked its performance over ten epochs. At the outset, the model exhibited a training accuracy of approximately 55.2%,as the training continued, the model displayed a consistent upward trend in training accuracy, culminating in an impressive 87.6% by the tenth epoch.
 
-<div align="center"><img src="images/MobileNet-Graphs.png"  width=500 height=350></div>
+<div align="center"><img src="images/NasNet-Graphs.png"  width=500 height=350></div>
 
 The confusion matrix below helps us understand the results better:
 
-<div align="center"><img src="images/MobileNet-CM.png" width=350 height=350 ></div>
+<div align="center"><img src="images/NasNet-CM.png" width=350 height=350 ></div>
 
 ## Contributors
 
