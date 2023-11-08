@@ -1,4 +1,4 @@
-# Alzheimer_Ml_Project
+# Alzheimer_ML_Project
 
 # An efficient Alzheimer’s Disease Diagnosis with fine-tuned Transfer Learning models
 
