@@ -61,7 +61,7 @@ The architecture of the EfficientNetV2B3 is diagrammatically represented below:
 
 ### Performance evaluation of different models
 
-![Performance evaluation of different models](https://i.imgur.com/A0I8JnI.png)
+<div align="center"><img src="images/Analysis.png" ></div>
 
 ### EfficientNetV2B3
 
